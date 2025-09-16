@@ -1,11 +1,11 @@
-# Personal Growth Challenge
+# Build Your Own HashTable
 
 #### Date, 2025/09/16
 
 #### By Casey Waweru
 
 ## Description
-This is a simple repository that I am using to learn more about hashtables
+This is a simple repository that I am using to learn more about hashtables.
 
 ## Installation Requirements
 
@@ -16,6 +16,9 @@ git clone https://github.com/CaseyWachiuri/HashTables-in-C.git
 ```
 ## Technologies used
 pure C
+
+## References
+https://github.com/jamesroutley/write-a-hash-table
 
 ## Support and contact details
 github.com/CaseyWachiuri
