@@ -5,7 +5,7 @@
 #### By Casey Waweru
 
 ## Description
-This is a simple repository that I am using to teach myself concepts regarding data structures and algorithms
+This is a simple repository that I am using to learn more about hashtables
 
 ## Installation Requirements
 
